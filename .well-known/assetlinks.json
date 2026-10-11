@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.viniciuslimiroo.aurora",
+        "sha256_cert_fingerprints": ["A1:55:CC:22:FC:BC:6F:A6:9B:FE:76:BF:22:D6:76:7F:86:29:76:1A:B1:5B:70:90:59:A6:D8:9E:81:32:A7:CF"]
+      }
+    }]
